@@ -3,7 +3,7 @@
  - :seedling: I’m currently working on developing deep learning related applications in basketball.
  
  - :book: I'm currently a master of electrical engineering, mainly researching object tracking, motion recognition, and skeleton tasks, and expanding what I have learned to real-          world applications.
- Some of my works videos:https://www.youtube.com/watch?v=LbMR7sUu19c&t=17s&ab_channel=%E7%87%95%E5%AD%90Tsai
+ - Some of my works videos:https://www.youtube.com/watch?v=LbMR7sUu19c&t=17s&ab_channel=%E7%87%95%E5%AD%90Tsai
 
 Please feel free. :tea:
 
